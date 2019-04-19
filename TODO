@@ -1,0 +1,2 @@
+Todo: Run on local machine for all processes. 
+After we have a file produced for all processes we want to send StraceEntrys to logstash and repeat every x minutes
